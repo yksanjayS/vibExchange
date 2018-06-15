@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ConnectionString-Web.config Connection String" description="ConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=103.16.142.97; Initial Catalog=Iadept_Cloud_Backup;User ID =sa; password=I@dept@#97" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\vimal\\Desktop\\VibExchange\ 19\ Jan\ 2018\\VibExchange\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/VibExchange" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\vimal\\Desktop\\VibExchange\ 19\ Jan\ 2018\\VibExchange\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\vimal\\Desktop\\VibExchange\ 19\ Jan\ 2018\\VibExchange\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="ConnectionString-Web.config Connection String" description="" value="Data Source=103.16.142.97;Initial Catalog=Iadept_Cloud_Backup;User ID=sa;Password=I@dept@#97" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\vimal\\Desktop\\VibExchange\ 19\ Jan\ 2018\\VibExchange\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
